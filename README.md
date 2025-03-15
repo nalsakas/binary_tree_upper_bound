@@ -1,7 +1,7 @@
 # binary_tree_upper_bound
 Find upper bound for a given node in a binary tree.
 
-# Problen Statement:
+# Problem Statement:
 For a given binary tree that contains numbers find upper boud for a given node.
 Upper bound is smallest node value bigger than current node.
 
